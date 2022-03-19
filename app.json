@@ -1,0 +1,16 @@
+{
+  "name": "hgisuotu",
+  "description": "hieurioy",
+  "keywords": [
+    "ituopui"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "66db208c-3b21-4367-afb2-ac72b89abf85"
+    }
+  },
+  "website": "https://github.com/Juoeuout/trhjuyiwru",
+  "repository": "https://github.com/Juoeuout/trhjuyiwru",
+  "stack": "container"
+}
